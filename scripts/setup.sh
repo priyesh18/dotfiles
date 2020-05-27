@@ -12,4 +12,4 @@ sudo apt upgrade -y
 source ~/.bashrc
 
 # Fun hello
-figlet "... and we're back!" | lolcat
+figlet "... and we're back!"
