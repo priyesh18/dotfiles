@@ -10,7 +10,7 @@ export NVM_DIR="$HOME/.nvm" && (
 # requires adding few lines to the .bashrc file.
 source ~/.bashrc
 
-nvm install node
+nvm install --lts
 nvm install-latest-npm
 
 # installing packages
