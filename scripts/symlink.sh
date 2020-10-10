@@ -31,6 +31,7 @@ function linkDotfile {
 
 linkDotfile .git-prompt.sh
 linkDotfile .bashrc
+linkDotfile .bash_aliases
 linkDotfile .bash_profile
 linkDotfile .gitconfig
 linkDotfile .gitmessage

@@ -25,6 +25,7 @@ install python3-venv
 install python3-pip
 install build-essential
 install adb
+install fastboot
 install fonts-firacode
 
 

@@ -19,7 +19,9 @@ function install {
 install coenraads.bracket-pair-colorizer-2
 install davidanson.vscode-markdownlint
 install emmanuelbeziat.vscode-great-icons
-install HookyQR.beautify
+install esbenp.prettier-vscode
+install dsznajder.es7-react-js-snippets
+install eamodio.gitlens
 # install streetsidesoftware.code-spell-checker
 install yzhang.markdown-all-in-one
 
